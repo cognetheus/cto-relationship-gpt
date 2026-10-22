@@ -1,0 +1,25 @@
+{
+  "interface": {
+    "displayName": "CTO Relationship Intelligence",
+    "shortDescription": "Executive relationship prep",
+    "longDescription": "A complete CTO relationship-intelligence operating system for high-value conversations with founders, CEOs, CTOs, executives, investors, business owners and strategic partners. Performs deep person and company research, recent-activity intelligence, evidence-versus-inference analysis, relationship-stage classification, collaboration mapping, technology-footprint investigation, exactly two evidence-backed Technology Plays with active disconfirmation research, executive conversation strategy, full meeting-pack generation, Parakeet AI live-meeting instructions with trigger logic and warnings, prior-conversation analysis, post-meeting analysis, and ongoing research refreshes. It is designed to build credibility, curiosity, trust and genuine strategic relationships rather than run conventional sales calls.",
+    "developerName": "CoderzHunt",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Start a new CTO relationship intelligence session and show me the steering menu.",
+      "Research a person and company for an upcoming CTO-level conversation.",
+      "Prepare the full meeting pack, including the two Technology Plays and Parakeet AI instructions."
+    ]
+  },
+  "name": "cto-relationship-intelligence",
+  "version": "1.0.0",
+  "description": "Executive relationship intelligence and meeting strategy for CTO-level conversations. Research people and companies, interpret recent signals, identify genuine collaboration overlap, generate evidence-backed technology plays, prepare conversation strategy, and produce Parakeet AI live-meeting instructions without turning the interaction into a sales call.",
+  "author": {
+    "name": "CoderzHunt"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}
